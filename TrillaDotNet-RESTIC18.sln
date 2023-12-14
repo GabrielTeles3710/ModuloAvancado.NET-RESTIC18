@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo_1", "Exemplo_1\Exemplo_1.csproj", "{4A8A1389-4B6E-4B7B-99A0-5F5872168A5B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exemplo_1", "Exemplo_1", "{AB26AEE9-C105-41D6-A5F2-7E1675C4CBEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Exemplo_1\Domain\Domain.csproj", "{F27F9CC3-967C-46D7-B75E-05C6FDDDBB47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,12 @@ Global
 		{4A8A1389-4B6E-4B7B-99A0-5F5872168A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A8A1389-4B6E-4B7B-99A0-5F5872168A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A8A1389-4B6E-4B7B-99A0-5F5872168A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27F9CC3-967C-46D7-B75E-05C6FDDDBB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27F9CC3-967C-46D7-B75E-05C6FDDDBB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27F9CC3-967C-46D7-B75E-05C6FDDDBB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27F9CC3-967C-46D7-B75E-05C6FDDDBB47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F27F9CC3-967C-46D7-B75E-05C6FDDDBB47} = {AB26AEE9-C105-41D6-A5F2-7E1675C4CBEE}
 	EndGlobalSection
 EndGlobal
