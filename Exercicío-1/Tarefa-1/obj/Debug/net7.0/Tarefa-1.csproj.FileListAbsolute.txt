@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\bin\Debug\net7.0\Tarefa-1.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\bin\Debug\net7.0\Tarefa-1.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\bin\Debug\net7.0\Tarefa-1.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\bin\Debug\net7.0\Tarefa-1.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\bin\Debug\net7.0\Tarefa-1.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\obj\Debug\net7.0\Tarefa-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\obj\Debug\net7.0\Tarefa-1.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\obj\Debug\net7.0\Tarefa-1.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\obj\Debug\net7.0\Tarefa-1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\obj\Debug\net7.0\Tarefa-1.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\obj\Debug\net7.0\refint\Tarefa-1.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\obj\Debug\net7.0\Tarefa-1.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\obj\Debug\net7.0\Tarefa-1.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\ModuloAvancado\Tarefa-1\obj\Debug\net7.0\ref\Tarefa-1.dll
