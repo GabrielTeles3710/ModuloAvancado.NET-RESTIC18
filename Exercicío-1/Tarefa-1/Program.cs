@@ -58,11 +58,9 @@ static void Main(string[] args)
         
         Console.Write("Hora: ");
         var hora = Int32.Parse(Console.ReadLine());
-        Console.WriteLine();
 
         Console.Write("Minuto: ");
         var minuto = Int32.Parse(Console.ReadLine());
-        Console.WriteLine();
         
         Console.Write("segundo: ");
         var segundo = Int32.Parse(Console.ReadLine());

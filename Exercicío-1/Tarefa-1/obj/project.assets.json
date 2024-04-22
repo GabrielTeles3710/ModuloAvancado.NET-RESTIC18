@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\ModuloAvancado.NET-RESTIC18\\Exercicío-1\\Tarefa-1\\Tarefa-1.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ModuloAvancado.NET-RESTIC18\\Exercicío-1\\Tarefa-1\\Tarefa-1.csproj",
       "projectName": "Tarefa-1",
-      "projectPath": "C:\\Users\\gabri\\Desktop\\ModuloAvancado.NET-RESTIC18\\Exercicío-1\\Tarefa-1\\Tarefa-1.csproj",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ModuloAvancado.NET-RESTIC18\\Exercicío-1\\Tarefa-1\\Tarefa-1.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\Desktop\\ModuloAvancado.NET-RESTIC18\\Exercicío-1\\Tarefa-1\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ModuloAvancado.NET-RESTIC18\\Exercicío-1\\Tarefa-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
